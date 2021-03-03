@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<items>
+  <item>
+    <sales_order_item>
+      <item>
+        <item_id>1</item_id>
+        <name>Test new product - updated 1</name>
+      </item>
+    </sales_order_item>
+  </item>
+  <item>
+    <sales_order_item>
+      <item>
+        <item_id>2</item_id>
+        <name>Test new product - updated 2</name>
+      </item>
+    </sales_order_item>
+  </item>
+</items>
